@@ -242,7 +242,7 @@
   gap: 10px;
 }
 
-.person_reverse {
+.person__reverse {
   position: absolute;
   display: flex;
   align-items: center;
