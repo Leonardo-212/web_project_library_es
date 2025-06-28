@@ -355,12 +355,12 @@
   flex-direction: column;
 }
 
-.footer__column_content_hours_and_social {
+.footer__column_content-hs {
   display: flex;
   gap: 80px;
 }
 
-.footer__column_content_logo_and_copyrigt {
+.footer__column_content-ls {
   display: flex;
   flex-direction: column;
   gap: 100px;
