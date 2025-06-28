@@ -355,12 +355,12 @@
   flex-direction: column;
 }
 
-.footer__column_content-hs {
+.footer__column__content_hs {
   display: flex;
   gap: 80px;
 }
 
-.footer__column_content-ls {
+.footer__column__content_ls {
   display: flex;
   flex-direction: column;
   gap: 100px;
